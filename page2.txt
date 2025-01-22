@@ -1,0 +1,1 @@
+To connect your AWS Linux (CentOS) instance to GitHub and push or pull a text document.
